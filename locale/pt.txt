@@ -5,25 +5,23 @@
 ### Description
 
 ### Title
-tour.name = Tour Virtual 360º - Eco Clean Unid Jardim Tropical
+tour.name = Tour Virtual 360º - Eco Clean Unid Garavelo
 
 ## Skin
 
 ### Button
-Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = WHATSAPP
-Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = WHATSAPP
-Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = INSTAGRAM
-Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = INSTAGRAM
-Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = NOSSO SITE
-Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = NOSSO SITE
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = FAÇA SEU CADASTRO 
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = FAÇA SEU CADASTRO
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = NOSSOS CONTATOS
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = NOSSOS  CONTATOS
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = SITE OFICIAL 
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = SITE OFICIAL 
 Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = LOCALIZAÇÃO
 Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = LOCALIZAÇÃO
 Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = IMAGEM AÉREA
 Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = IMAGEM AÉREA
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = RECEPÇÃO
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = RECEPÇÃO
-Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9.label = ÁREA INTERNA
-Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9_mobile.label = ÁREA INTERNA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = WHATSAPP
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = WHATSAPP
 
 ## Media
 
@@ -40,13 +38,15 @@ panorama_3FE91668_21F8_8922_41A2_35F88D370AF8.label = IMG_20220715_112440_00_mer
 ## Action
 
 ### URL
-LinkBehaviour_0168C907_1E48_BF18_41AE_187D74295195.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
-LinkBehaviour_016A490A_1E48_BF28_41B8_E3571F9E64B6.source = https://www.instagram.com/ecocleanhigieneelimpeza/
-LinkBehaviour_016B18F6_1E48_BEF9_41B0_6364506B7700.source = https://ecocleandistribuicao.com.br/
-LinkBehaviour_016B28F7_1E48_BEE7_4183_1F17FB1BC40A.source = https://www.google.com/maps/dir//Eco+Clean+-+Avenida+Furnas+Qd.+B1,+R.+L-6+-+St.+Araguaia,+Aparecida+de+Goi%C3%A2nia+-+GO,+74811-145/@-16.7929238,-49.3639435,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935efb4625d2c8b7:0xff0e34b446151f14!2m2!1d-49.2458313!2d-16.814998!3e0
-LinkBehaviour_016F9911_1E48_BF3B_41B4_D10463789F79.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
 LinkBehaviour_03783ACD_1EF8_BD2B_41A3_3A0A199BB3B9.source = https://ecocleandistribuicao.com.br/
-LinkBehaviour_041F3D14_1EF8_9739_4192_DAD4331F63FB.source = https://www.google.com/maps/dir//Eco+Clean+-+Avenida+Furnas+Qd.+B1,+R.+L-6+-+St.+Araguaia,+Aparecida+de+Goi%C3%A2nia+-+GO,+74811-145/@-16.7929238,-49.3639435,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935efb4625d2c8b7:0xff0e34b446151f14!2m2!1d-49.2458313!2d-16.814998!3e0
+LinkBehaviour_041F3D14_1EF8_9739_4192_DAD4331F63FB.source = https://www.google.com/maps/dir//Eco-Clean+Higiene,+Limpeza+e+Descart%C3%A1veis+-+Av.+Tropical+-+Jardim+Tropical,+Aparecida+de+Goi%C3%A2nia+-+GO,+74930-115/@-16.7708733,-49.4738106,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef9a86516fb25:0x9ede0c009e13c4b!2m2!1d-49.3419747!2d-16.7708733
 LinkBehaviour_0A7FF1B9_1ED8_8F6B_41B9_E262FCC77DDD.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
-LinkBehaviour_0BAD0153_1ED9_8F38_41BD_F6B56A5A235B.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
-LinkBehaviour_0DF58235_1EC7_8D7B_418D_55DA8B5F05A7.source = https://www.instagram.com/ecocleanhigieneelimpeza/
+LinkBehaviour_0BAD0153_1ED9_8F38_41BD_F6B56A5A235B.source = https://limpezaprofissional.ecocleandistribuicao.com.br/
+LinkBehaviour_0DF58235_1EC7_8D7B_418D_55DA8B5F05A7.source = https://linktr.ee/contatosecoclean
+LinkBehaviour_504493A0_48D7_0FB2_41CB_AD215D550510.source = https://www.google.com/maps/dir//Eco+Clean+-+Avenida+Furnas+Qd.+B1,+R.+L-6+-+St.+Araguaia,+Aparecida+de+Goi%C3%A2nia+-+GO,+74811-145/@-16.7929238,-49.3639435,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935efb4625d2c8b7:0xff0e34b446151f14!2m2!1d-49.2458313!2d-16.814998!3e0
+LinkBehaviour_5045C3B0_48D7_0F91_41CB_F15ADDD65442.source = https://linktr.ee/contatosecoclean
+LinkBehaviour_504673AF_48D7_0F8F_41BA_FBC4440472CE.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_504793B2_48D7_0F91_41BA_D82237610FC2.source = https://limpezaprofissional.ecocleandistribuicao.com.br/
+LinkBehaviour_5059439E_48D7_0F8E_41C2_6B1C5796CD6E.source = https://ecocleandistribuicao.com.br/
+LinkBehaviour_52BFF1D1_4992_3C74_41CF_35C7E358AE6C.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0
+LinkBehaviour_52E750F4_4992_1C3C_41CD_64C5EF0608EC.source = https://api.whatsapp.com/message/4V6XFX2ZEUGCB1?autoload=1&app_absent=0

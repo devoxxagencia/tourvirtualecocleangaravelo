@@ -1,6 +1,8 @@
 {
+ "name": "Tour Virtual 360º - Eco Clean Unid Garavelo",
  "theme_color": "#0099CC",
- "start_url": "index.htm",
+ "display": "fullscreen",
+ "background_color": "#0099CC",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +40,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "name": "Tour Virtual 360º - Eco Clean Unid Jardim Tropical",
- "display": "fullscreen",
- "background_color": "#0099CC"
+ "start_url": "index.htm"
 }
